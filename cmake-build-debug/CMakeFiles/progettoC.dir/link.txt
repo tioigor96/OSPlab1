@@ -1,1 +1,0 @@
-/usr/bin/cc   -std=c11 -g   CMakeFiles/progettoC.dir/main.c.o CMakeFiles/progettoC.dir/src/readlines.c.o CMakeFiles/progettoC.dir/src/optionControl.c.o CMakeFiles/progettoC.dir/src/text_stats.c.o  -o progettoC 
